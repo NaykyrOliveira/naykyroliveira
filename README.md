@@ -32,6 +32,15 @@ Meu nome é Naykyr Sou apaixonado por tecnologia e atualmente estou estudando De
 
 [![My Skills](https://skillicons.dev/icons?i=kali,windows,linux)](https://skillicons.dev)
 
+## 📂 Projetos
+
+Aqui estão alguns dos meus projetos recentes:
+
+- **[Magic Perception Game](https://magic-perception-game.onrender.com/)**: Um jogo de quebra-cabeça inspirado no universo mágico de Harry Potter, desenvolvido para promover a conscientização sobre o Transtorno do Espectro Autista (TEA). O jogo combina elementos de magia e desafios mentais para criar uma experiência divertida e educativa.
+
+- **[Mental Health Quiz](https://mental-health-8ora.onrender.com/)**: Um quiz interativo que visa promover a conscientização sobre saúde mental. O quiz oferece feedback e recomendações personalizadas com base nas respostas dos usuários, ajudando a aumentar a compreensão e o apoio à saúde mental.
+
+
 ## 📫 Como entrar em contato comigo
 
 
