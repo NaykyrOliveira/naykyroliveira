@@ -36,6 +36,8 @@ Meu nome é Naykyr Sou apaixonado por tecnologia e atualmente estou estudando De
 
 Aqui estão alguns dos meus projetos recentes:
 
+- **[StaySec](https://staysec.vercel.app/)**: Um projeto focado em conscientizar sobre a segurança online. O StaySec oferece recursos e informações para proteger suas contas e manter a privacidade na internet, com guias práticos sobre ameaças online, proteção de dados, navegação segura e muito mais.
+
 - **[Magic Perception Game](https://magic-perception-game.onrender.com/)**: Um jogo de quebra-cabeça inspirado no universo mágico de Harry Potter, desenvolvido para promover a conscientização sobre o Transtorno do Espectro Autista (TEA). O jogo combina elementos de magia e desafios mentais para criar uma experiência divertida e educativa.
 
 - **[Mental Health Quiz](https://mental-health-8ora.onrender.com/)**: Um quiz interativo que visa promover a conscientização sobre saúde mental. O quiz oferece feedback e recomendações personalizadas com base nas respostas dos usuários, ajudando a aumentar a compreensão e o apoio à saúde mental.
