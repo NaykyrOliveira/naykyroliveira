@@ -36,6 +36,8 @@ Meu nome é Naykyr Sou apaixonado por tecnologia e atualmente estou estudando De
 
 Aqui estão alguns dos meus projetos recentes:
 
+- **[InclusivIT](https://inclusiv-it-xi.vercel.app/)**: Um projeto que visa tornar as oportunidades de TI mais acessíveis para pessoas com deficiência (PCD). O InclusivIT conecta candidatos a vagas de emprego em tecnologia, oferecendo um espaço onde empresas que valorizam a inclusão podem anunciar suas oportunidades. 
+
 - **[StaySec](https://staysec.vercel.app/)**: Um projeto focado em conscientizar sobre a segurança online. O StaySec oferece recursos e informações para proteger suas contas e manter a privacidade na internet, com guias práticos sobre ameaças online, proteção de dados, navegação segura e muito mais.
 
 - **[Magic Perception Game](https://magic-perception-game.onrender.com/)**: Um jogo de quebra-cabeça inspirado no universo mágico de Harry Potter, desenvolvido para promover a conscientização sobre o Transtorno do Espectro Autista (TEA). O jogo combina elementos de magia e desafios mentais para criar uma experiência divertida e educativa.
